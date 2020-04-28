@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Se rendre sur le site de la voyageuse curieuse</title>
+    <link href="https://Sissi422.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://Sissi422.github.io/gh-pages" />
+    <updated>2020-04-28T14:09:25+02:00</updated>
+    <author>
+        <name>Sissi</name>
+    </author>
+    <id>https://Sissi422.github.io/gh-pages</id>
+
+    <entry>
+        <title>Comment se rendre sur le site de la voyageuse curieuse ? </title>
+        <author>
+            <name>Sissi</name>
+        </author>
+        <link href="https://Sissi422.github.io/gh-pages/comment-se-rendre-sur-le-site-de-la-voyageuse-curieuse.html"/>
+        <id>https://Sissi422.github.io/gh-pages/comment-se-rendre-sur-le-site-de-la-voyageuse-curieuse.html</id>
+
+        <updated>2020-04-28T13:22:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Taper l'adresse suivante : https://voyageusecurieuse.com 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Taper l'adresse suivante : <a href="https://voyageusecurieuse.com">https://voyageusecurieuse.com</a></p>
+<p><img class="post__image" src="https://Sissi422.github.io/gh-pages/media/posts/1/VoyageuseCurieuse-s.jpg" alt="" width="205" height="205"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
